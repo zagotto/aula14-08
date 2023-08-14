@@ -1,0 +1,20 @@
+.img-movimento{
+    width: 651px;
+
+
+    
+}
+.gif-title{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.container{
+        text-align: left;
+        border: 100px groove rgba(255, 255, 0, 0.652);
+    
+
+
+}
